@@ -26,6 +26,4 @@ repository => '/media/sf_bandaru/was/javasdk7/SDK7.0/WS_SDK_JAVA_TEV7.0_1OF3_WAS
 require    => Websphere::Package['WebSphere_85510'],
 }
 }
- }
- }
 
