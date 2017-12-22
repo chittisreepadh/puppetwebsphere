@@ -2,7 +2,6 @@
    class  { 'ibm_installation_manager': 
 source_dir => '/media/sf_bandaru/was/InstallationManager',
  }
- ss
 websphere::instance { 'webSphere85' :
 target => '/opt/IBM/WebSphere/AppServer',
 package => 'com.ibm.websphere.ND.v85',
