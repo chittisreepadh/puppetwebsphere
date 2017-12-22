@@ -1,0 +1,5 @@
+mod 'puppetlabs-ibm_installation_manager', '0.2.5'
+mod 'puppetlabs-stdlib', '4.24.0'
+mod 'puppet-archive', '2.2.0'
+mod 'joshbeard-websphere', '0.1.1'
+mod 'puppetlabs-concat', '4.1.1'
